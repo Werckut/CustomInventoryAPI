@@ -1,8 +1,8 @@
 # CustomInventoryAPI
 ## [Read WIKI](https://github.com/Werckut/CustomInventoryAPI/wiki)
 ### Some pictures 🖼️
-> ![Single drag](https://user-images.githubusercontent.com/51494093/175773912-e05f703e-62d9-4db1-8946-39af8697e257.png)
+> ![image](https://user-images.githubusercontent.com/51494093/175774124-a511a8d5-c132-4ee1-b119-86158286a9bd.png)
 > Single drag
 
-> ![Even drag](https://user-images.githubusercontent.com/51494093/175773930-c16b8576-1df6-4940-ad65-782a9b7dc0b9.png)
+> ![image](https://user-images.githubusercontent.com/51494093/175774122-374ab669-8a4d-4793-9870-1b373cf152a7.png)
 > Even drag
