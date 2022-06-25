@@ -6,8 +6,6 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.InventoryHolder;
 import ru.werckut.custominventoryapi.util.SlotManager;
 
-import java.lang.reflect.InvocationTargetException;
-
 public final class CustomInventory {
     private final Inventory inventory;
     private final String title;

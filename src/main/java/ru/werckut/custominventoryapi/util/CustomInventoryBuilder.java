@@ -52,7 +52,7 @@ public final class CustomInventoryBuilder implements InventoryBuilder {
 
     @Override
     public CustomInventory build() {
-        SlotManager manager = null;
+        SlotManager manager;
         try {
             manager = slotManager.getConstructor(int.class)
                     .newInstance(rows*9);

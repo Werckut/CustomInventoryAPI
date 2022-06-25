@@ -29,7 +29,6 @@ public class CustomInventoryListener implements Listener {
 
             if (!sm.allow(e.getRawSlot()) || e.getClick().equals(ClickType.SHIFT_LEFT)) {
                 e.setCancelled(true);
-                return;
             }
         }
     }
