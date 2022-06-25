@@ -1,0 +1,9 @@
+name: CustomInventoryAPI
+version: '${version}'
+main: ru.werckut.custominventoryapi.CustomInventoryAPI
+api-version: 1.19
+authors: [ Werckut ]
+description: Easy API for create very functional inventories as GUI
+commands:
+  c:
+    description: none
