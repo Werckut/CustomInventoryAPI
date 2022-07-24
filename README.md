@@ -27,7 +27,7 @@ dependencies {
         implementation 'com.github.Werckut:CustomInventoryAPI:Tag'
 }
 ```
---=
+---
 ### Some pictures 🖼️
 > ![image](https://user-images.githubusercontent.com/51494093/175774124-a511a8d5-c132-4ee1-b119-86158286a9bd.png)
 > Single drag
