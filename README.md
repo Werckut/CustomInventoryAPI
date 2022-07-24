@@ -15,7 +15,6 @@
     <version>Tag</version>
 </dependency>
 ```
----
 ### Gradle
 ```gradle
 repositories {
