@@ -1,6 +1,6 @@
 # CustomInventoryAPI
 ## [Read WIKI](https://github.com/Werckut/CustomInventoryAPI/wiki)
-
+---
 ### Maven
 ```xml
 <repository>
